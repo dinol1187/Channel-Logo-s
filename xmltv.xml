@@ -1,0 +1,1497 @@
+<?xml version="1.0"?>
+<tv generator-info-name="dizquetv">
+    <channel id="1">
+        <display-name lang="en">FROM</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/TV%20SHOWS/FROM.jpg?raw=true"/>
+    </channel>
+    <channel id="2">
+        <display-name lang="en">Harry Potter</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/MOVIES/harrypotter.jpg?raw=true"/>
+    </channel>
+    <channel id="3">
+        <display-name lang="en">Everyone Loves Raymond</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/TV%20SHOWS/elr.jpg?raw=true"/>
+    </channel>
+    <channel id="4">
+        <display-name lang="en">Stargate SG1</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/TV%20SHOWS/SGSG1.jpg?raw=true"/>
+    </channel>
+    <channel id="5">
+        <display-name lang="en">The Walkinng Dead</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/TV%20SHOWS/walkingdead.jpg?raw=true"/>
+    </channel>
+    <channel id="6">
+        <display-name lang="en">How its made</display-name>
+        <icon src="https://github.com/dinol1187/Channel-Logo-s/blob/main/TV%20SHOWS/Howitsmade.jpg?raw=true"/>
+    </channel>
+    <programme start="20260610203714 +0000" stop="20260610212527 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">A Rock and a Farway</sub-title>
+        <episode-num system="onscreen">S1 E4</episode-num>
+        <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Julie finds comfort in her new friends. Jim and Tabitha deal with their struggling marriage. Ethan ventures off into the forest with Victor. Father Khatri urges Boyd to embrace his role as leader. Sara receives another horrifying directive.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610212527 +0000" stop="20260610221405 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Silhouettes</sub-title>
+        <episode-num system="onscreen">S1 E5</episode-num>
+        <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Jim, Tabitha and Ethan begin asking questions about where they are in the hopes it may lead them home. Ellis and Fatima show Julie the lighter side of life in town. Jade struggles to make sense of their situation. Boyd seeks guidance.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610221405 +0000" stop="20260610230247 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Book 74</sub-title>
+        <episode-num system="onscreen">S1 E6</episode-num>
+        <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Boyd’s plan to head off into the forest provokes an unexpected response from Kenny. Jade enlists Jim’s help with an experiment. Tabitha makes a chilling discovery that sends her down a unique path searching for answers.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610230247 +0000" stop="20260610235308 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">All Good Things</sub-title>
+        <episode-num system="onscreen">S1 E7</episode-num>
+        <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Father Khatri tells Boyd why he believes Sara may be useful. Jim and Tabitha find comfort in each other. Colony House celebrates the one-year anniversary of Fatima’s arrival with a party that goes terribly wrong.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610235308 +0000" stop="20260611004827 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Broken Windows, Open Doors</sub-title>
+        <episode-num system="onscreen">S1 E8</episode-num>
+        <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">In the wake of another death, Boyd questions his decision to leave. Kenny steps up and embraces his new role. Jim rallies the town around his idea to build a radio tower. Fatima urges Ellis to make amends with his father before it’s too late.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611004827 +0000" stop="20260611013400 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Into the Woods</sub-title>
+        <episode-num system="onscreen">S1 E9</episode-num>
+        <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Boyd and Sara journey deeper into the forest than Boyd has ever gone, encountering new and terrifying mysteries. Jim’s confidence in the radio tower begins to wane. An unexpected tragedy causes Donna to unravel. Kenny and Kristi share a moment.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611013400 +0000" stop="20260611022140 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Oh, the Places We'll Go</sub-title>
+        <episode-num system="onscreen">S1 E10</episode-num>
+        <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Boyd draws strength from an unlikely source. Jim’s radio tower yields consequences which rock him to his very core. The hole that Tabitha has been digging leads her somewhere, and to someone, she could never have expected.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611022140 +0000" stop="20260611030914 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Strangers in a Strange Land</sub-title>
+        <episode-num system="onscreen">S2 E1</episode-num>
+        <episode-num system="xmltv_ns">1.0.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">In Sheriff Boyd’s absence, Donna and Kenny struggle to manage the chaos as a busload of unwitting newcomers arrives in town. Victor and Tabitha go on a chilling journey through the nightmarish labyrinth of tunnels beneath the town.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611030914 +0000" stop="20260611035523 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">The Kindness of Strangers</sub-title>
+        <episode-num system="onscreen">S2 E2</episode-num>
+        <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Some of the newcomers accept their fate, some don't, and some die. Jim spends a night in the collapsed house with Tom and a dying newcomer, while Boyd shares a conversation with Martin. Tabitha and Victor make their way to Victor's hiding spot.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611035523 +0000" stop="20260611044622 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Tether</sub-title>
+        <episode-num system="onscreen">S2 E3</episode-num>
+        <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">In the aftermath of the bus arrival, Boyd returns and takes charge, while Ellis and Fatima make plans for the future. Kenny and Ellis talk to a girl from the bus who has something on her mind, while Jade talks to Victor about something on his mind.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611044622 +0000" stop="20260611053418 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">This Way Gone</sub-title>
+        <episode-num system="onscreen">S2 E4</episode-num>
+        <episode-num system="xmltv_ns">1.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Jim has a new theory about what's going on with the town. Donna lays down the rules of Colony House to Randall. Ethan tries to make up with Victor, and Kenny finds out what Boyd has been hiding from him. Meanwhile, Boyd has an unexpected conversation.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611053418 +0000" stop="20260611062733 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Lullaby</sub-title>
+        <episode-num system="onscreen">S2 E5</episode-num>
+        <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Sara goes about the town talking to the people whose her earlier actions she hurt, and Ethan confronts her. Jade tries to find out more from Victor about the man in the photos and has to play a lullaby on the violin, while Tabitha reaches out to the children in her visions.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611062733 +0000" stop="20260611071631 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Pas de Deux</sub-title>
+        <episode-num system="onscreen">S2 E6</episode-num>
+        <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Donna is forced to secretly start rationing at Colony House, but isn't a secret for very long. The worms inside Boyd grow stronger, and he is forced to find a way to get rid of them when Ellis is badly wounded and needs a blood transfusion.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611071631 +0000" stop="20260611080542 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Belly of the Beast</sub-title>
+        <episode-num system="onscreen">S2 E7</episode-num>
+        <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Boyd's ballerina nightmare somehow spreads to Mari and Elgin. Kristi conducts an autopsy on the dead monster to try and find a weakness the townspeople can exploit against the other monsters. Fatima gets unexpected medical news, while Kenny reveals a secret to Kristi.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611080542 +0000" stop="20260611085127 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Forest for the Trees</sub-title>
+        <episode-num system="onscreen">S2 E8</episode-num>
+        <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Jim and Randall suspect there's more to the town secrets than meet the eye and Randall's paranoia takes a dangerous turn. Tabitha prods Victor into remembering more about his past. Strange dreams plague the town in the wake of the monster's body.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611085127 +0000" stop="20260611093812 +0000" channel="1">
+        <title lang="en">FROM</title>
+        <previously-shown/>
+        <sub-title lang="en">Ball of Magic Fire</sub-title>
+        <episode-num system="onscreen">S2 E9</episode-num>
+        <episode-num system="xmltv_ns">1.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/14342/thumb/1781062449?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The cicadas are flying, and no one can sleep safely, day or night. Things at Colony House grow tense, while Boyd, Jim, Donna, and Randall spend a night in the RV when they can't get back to town before night falls and the monsters come out.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610210221 +0000" stop="20260610234828 +0000" channel="2">
+        <title lang="en">Harry Potter and the Chamber of Secrets</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/15999/thumb/1779245167?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.</desc>
+        <rating system="MPAA">
+            <value>PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610234828 +0000" stop="20260611020006 +0000" channel="2">
+        <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/16022/thumb/1779244369?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.</desc>
+        <rating system="MPAA">
+            <value>PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611020006 +0000" stop="20260611042933 +0000" channel="2">
+        <title lang="en">Harry Potter and the Goblet of Fire</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/16037/thumb/1779244190?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.</desc>
+        <rating system="MPAA">
+            <value>PG-13</value>
+        </rating>
+    </programme>
+    <programme start="20260611042933 +0000" stop="20260611064209 +0000" channel="2">
+        <title lang="en">Harry Potter and the Order of the Phoenix</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/16039/thumb/1779244527?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.</desc>
+        <rating system="MPAA">
+            <value>PG-13</value>
+        </rating>
+    </programme>
+    <programme start="20260611064209 +0000" stop="20260611091115 +0000" channel="2">
+        <title lang="en">Harry Potter and the Half-Blood Prince</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/16038/thumb/1779245951?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">During Harry Potter's sixth year at Hogwarts, he finds a book that once belonged to the mysterious Half-Blood Prince that earns him the respect of his new Potions professor Horace Slughorn. In addition, Dumbledore must prepare Harry for the ultimate final confrontation by finding out the secret behind Voldemort's power. Meanwhile, a hidden enemy waits in the shadows to carry out a mission given to him by the Dark Lord.</desc>
+        <rating system="MPAA">
+            <value>PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611091115 +0000" stop="20260611113439 +0000" channel="2">
+        <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+        <previously-shown/>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/16073/thumb/1762643859?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Harry Potter is tasked with the dangerous and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes. Harry must rely on Ron and Hermione more than ever, but dark forces threaten to tear them apart.</desc>
+        <rating system="MPAA">
+            <value>PG-13</value>
+        </rating>
+    </programme>
+    <programme start="20260610205214 +0000" stop="20260610211528 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Your Place or Mine?</sub-title>
+        <episode-num system="onscreen">S1 E7</episode-num>
+        <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Marie stays at Raymond and Debra's house after she gets in a fight with Frank. Meanwhile, Frank has the time of his life by himself at home, and Raymond starts getting used to having his mom spoil him again.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610211528 +0000" stop="20260610213802 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">In-Laws</sub-title>
+        <episode-num system="onscreen">S1 E8</episode-num>
+        <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Ray's upper class in-laws come for a visit, he begs his parents to be nice to them. Ray admits to his parents that he doesn't always see eye-to-eye with Debra's folks but manages to fake it, and he'd like his parents to do the same when they all go out and try to have a family dinner.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610213802 +0000" stop="20260610215922 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Win, Lose or Draw</sub-title>
+        <episode-num system="onscreen">S1 E9</episode-num>
+        <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray gets tired of being treated like a kid at his father's poker game, so he decides to ignore his father's advice and ends up losing all his money.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610215922 +0000" stop="20260610222233 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Turkey or Fish</sub-title>
+        <episode-num system="onscreen">S1 E10</episode-num>
+        <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Although Marie has always cooked the traditional turkey dinner for Thanksgiving, Debra decides it's her turn to prepare the holiday meal, but not wanting to compete with Marie's turkey, she chooses to serve fish.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610222233 +0000" stop="20260610224544 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Captain Nemo</sub-title>
+        <episode-num system="onscreen">S1 E11</episode-num>
+        <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Ray's free time goes to coaching Nemo's basketball team in preparation for the Pizza League championships, he is reminded by Debra that their kids are growing up fast and he's missing precious time with them.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610224544 +0000" stop="20260610230901 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Ball</sub-title>
+        <episode-num system="onscreen">S1 E12</episode-num>
+        <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray discovers that the autographed Mickey Mantle ball he got as a kid from his father isn't authentic. Feeling hurt by the fact that his father wasn't truthful about the ball, Ray decides he's going to tell Ally the truth about Santa Claus.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610230901 +0000" stop="20260610233212 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Debra's Sick</sub-title>
+        <episode-num system="onscreen">S1 E13</episode-num>
+        <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Raymond misses an interview with Terry Bradshaw about ghostwriting his book because he has to take Ally and Michael to the pediatrician. Debra is sick at home, and Marie comes over to take care of her.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610233212 +0000" stop="20260610235341 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Who's Handsome?</sub-title>
+        <episode-num system="onscreen">S1 E14</episode-num>
+        <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray can't face the fact that everybody thinks that his brother Robert is "classically handsome," while they consider him "adorable like a hamster."</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610235341 +0000" stop="20260611001649 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Car</sub-title>
+        <episode-num system="onscreen">S1 E15</episode-num>
+        <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Debra, already annoyed at getting stuck driving the old car Ray bought from his parents, really gets upset when she discovers that it was his old "make-out-mobile."</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611001649 +0000" stop="20260611004000 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Diamonds</sub-title>
+        <episode-num system="onscreen">S1 E16</episode-num>
+        <episode-num system="xmltv_ns">0.15.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray finds out that the diamond on Debra's engagement ring is a fake, so he steals it from her to get it changed, only to find out after that she already had it exchanged it with her grandma's $15,000 diamond.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611004000 +0000" stop="20260611010314 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Game</sub-title>
+        <episode-num system="onscreen">S1 E17</episode-num>
+        <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Ray and his family play a game of Scruples after their cable goes out, they find themselves arguing about honesty. To make matters worse, when Ray complains to the cable company about the disruption in service, he is informed that he has an illegal hookup.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611010314 +0000" stop="20260611012615 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Recovering Pessimist</sub-title>
+        <episode-num system="onscreen">S1 E18</episode-num>
+        <episode-num system="xmltv_ns">0.17.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Debra tries to change Ray's pessimistic attitude about winning the Sports Writer of the Year Award, he agrees to change his ways and become more positive, but he soon has to suffer the downside of being the only optimist in his family.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611012615 +0000" stop="20260611014920 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Dog</sub-title>
+        <episode-num system="onscreen">S1 E19</episode-num>
+        <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray brings home a stray bulldog that reminds him of the dog he had to give up as a boy due to his allergies, but his brother Robert bonds with the dog and the siblings have to decide who gets to keep him.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611014920 +0000" stop="20260611021228 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Neighbors</sub-title>
+        <episode-num system="onscreen">S1 E20</episode-num>
+        <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The neighbourhood is up in arms over Ray's noisy dad and meddling mom, and the neighbours demand a meeting at Ray's and Debra's house.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611021228 +0000" stop="20260611023533 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Fascinatin' Debra</sub-title>
+        <episode-num system="onscreen">S1 E21</episode-num>
+        <episode-num system="xmltv_ns">0.20.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">A popular radio psychologist visits the Barone household to interview Debra for a book on the American family. But the doctor finds that the rest of the eccentric Barones are more captivating.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611023533 +0000" stop="20260611025659 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Why Are We Here?</sub-title>
+        <episode-num system="onscreen">S1 E22</episode-num>
+        <episode-num system="xmltv_ns">0.21.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">In this flashback episode, Ray and Debra remember their days in their first apartment.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611025659 +0000" stop="20260611031950 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Ray's on TV</sub-title>
+        <episode-num system="onscreen">S2 E1</episode-num>
+        <episode-num system="xmltv_ns">1.0.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray is devastated when he discovers his family lied to him about his television debut on a sports talk show. When he gets a second chance to appear on the same show, his family decides it's time they gave him some pointers on how to correct his awkwardness with certain words.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611031950 +0000" stop="20260611034249 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Father Knows Least</sub-title>
+        <episode-num system="onscreen">S2 E2</episode-num>
+        <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Marie and Frank's stubbornness goes to far, Ray gets to use the "active technique" he and Debra learned in parenting class on his parents.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611034249 +0000" stop="20260611040417 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Brother</sub-title>
+        <episode-num system="onscreen">S2 E3</episode-num>
+        <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">At the urging of his parents and Debra, Raymond reluctantly takes Robert for a night out on the anniversary of his brother's divorce.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611040417 +0000" stop="20260611042705 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Mozart</sub-title>
+        <episode-num system="onscreen">S2 E4</episode-num>
+        <episode-num system="xmltv_ns">1.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Ally becomes bored of the piano after three lessons by Marie, Ray decides to give the former a lesson about not quitting, as he doesn't want her to lose interest so quickly. He asks Marie to teach him the piano again.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611042705 +0000" stop="20260611044839 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Golf</sub-title>
+        <episode-num system="onscreen">S2 E5</episode-num>
+        <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray suffers an anxiety attack while playing golf, after he tricked Debra into letting him go. Believing that he is sick, Ray goes to see a doctor who tells him that he is properly suffering from stress and that he needs to find a way to relax, such as playing more golf.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611044839 +0000" stop="20260611051127 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Anniversary</sub-title>
+        <episode-num system="onscreen">S2 E6</episode-num>
+        <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">At a big surprise party for Frank and Marie's 40th. wedding anniversary, Ray is shocked to learn that his parents were once separated for a year and that they might have gotten divorced, if Frank hadn't returned because Ray broke his arm.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611051127 +0000" stop="20260611053238 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Working Late Again</sub-title>
+        <episode-num system="onscreen">S2 E7</episode-num>
+        <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">After Debra reads a newspaper article about people who enjoy being at work more than being at home, she convinces Ray to set up a home office.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611053238 +0000" stop="20260611055351 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Children's Book</sub-title>
+        <episode-num system="onscreen">S2 E8</episode-num>
+        <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Sick of reading Ally the same stories night after night, Debra decides to try her hand at writing a children's book.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611055351 +0000" stop="20260611061519 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Gift</sub-title>
+        <episode-num system="onscreen">S2 E9</episode-num>
+        <episode-num system="xmltv_ns">1.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray, feeling guilty about only getting his dad a card for his 65th. birthday, makes up for it by buying him a fancy and expensive aquarium just like the one he always admired in the Chinese restaurant. Frank, at first adores the gift, but after one of the fish dies, he starts hating it.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611061519 +0000" stop="20260611063633 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">High School</sub-title>
+        <episode-num system="onscreen">S2 E10</episode-num>
+        <episode-num system="xmltv_ns">1.9.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ray makes a startling discovery when he takes Debra to his 20th. high school reunion. It turns out that Debra's "one of them," them being the cool people who hated him and used to push him into the girls' bathroom.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611063633 +0000" stop="20260611065925 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Letter</sub-title>
+        <episode-num system="onscreen">S2 E11</episode-num>
+        <episode-num system="xmltv_ns">1.10.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Marie crashes and ruins her Tupperware party, Debra decides that she's had just about enough of her mother-in-law's constant interference. She puts pen to paper and writes a letter to her mother-in-law.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611065925 +0000" stop="20260611072054 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">All I Want for Christmas</sub-title>
+        <episode-num system="onscreen">S2 E12</episode-num>
+        <episode-num system="xmltv_ns">1.11.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">All Ray wants for Christmas is a little loving from his wife and he's willing to try anything to have his holiday wish come true.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611072054 +0000" stop="20260611074225 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Civil War</sub-title>
+        <episode-num system="onscreen">S2 E13</episode-num>
+        <episode-num system="xmltv_ns">1.12.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Feeling left out when he thinks that his father selectively asked his brother to join a Civil War re-enactment, Ray voluntarily enlists for the Battle of Gettysburg. As the men prepare for Battle, a funny thing happens, Ray is finally able to tell Frank that he wishes they did more together.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611074225 +0000" stop="20260611080354 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Mia Famiglia</sub-title>
+        <episode-num system="onscreen">S2 E14</episode-num>
+        <episode-num system="xmltv_ns">1.13.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Ally has to do a school project on genealogy and interview her oldest living relative, Ray helps her track down his father Frank's long-lost Aunt Sarina in Italy, and they decide to write her a letter. Things get interesting when Aunt Sarina takes the letter and the "stop by if you if you're ever in America" literally.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611080354 +0000" stop="20260611082653 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">Marie's Meatballs</sub-title>
+        <episode-num system="onscreen">S2 E15</episode-num>
+        <episode-num system="xmltv_ns">1.14.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Raymond chooses his mother's spaghetti and meatballs over his wife's lemon chicken for dinner, Debra blows a gasket. With good intentions, Ray asks his mom to teach Debra how to make her world-famous dish.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611082653 +0000" stop="20260611084822 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Checkbook</sub-title>
+        <episode-num system="onscreen">S2 E16</episode-num>
+        <episode-num system="xmltv_ns">1.15.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Raymond questions Debra about the budget and says he can do a better job - so she lets him try. In a few weeks, Ray bounces checks and has $300 in overdraft fees. He creates a fake checkbook so it all looks good on paper.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611084822 +0000" stop="20260611090945 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Ride-Along</sub-title>
+        <episode-num system="onscreen">S2 E17</episode-num>
+        <episode-num system="xmltv_ns">1.16.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Raymond decides to accompany his brother Robert, who is a policeman, on a ride-along. Initially, spending night shift in the back of Robert's patrol car bores Raymond, but his boredom quickly turns to terror during a chance visit to Nemo's restaurant.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611090945 +0000" stop="20260611093114 +0000" channel="3">
+        <title lang="en">Everybody Loves Raymond</title>
+        <previously-shown/>
+        <sub-title lang="en">The Family Bed</sub-title>
+        <episode-num system="onscreen">S2 E18</episode-num>
+        <episode-num system="xmltv_ns">1.17.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20230/thumb/1780591866?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Ally has been sleeping in Ray and Debra's bed a lot recently, and Ray is tired of it because he can't get a good night's sleep. The whole family has their own opinions on the issue. Ally complains that there are monsters in her room. Debra was sleeping in the room with her, but Ray didn't want her to do that. So, Ray gets his mother to spend the night in Ally's room with her...without Debra knowing about it.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610211320 +0000" stop="20260610215734 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">The Enemy Within</sub-title>
+        <episode-num system="onscreen">S1 E3</episode-num>
+        <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Major Kawalsky is possessed by a Goa'uld, and the SGC must find a way to remove it without killing him.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610215734 +0000" stop="20260610224148 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Emancipation</sub-title>
+        <episode-num system="onscreen">S1 E4</episode-num>
+        <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">An alien civilization is forced to reconsider their views on women when Carter rebels against their social customs.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610224148 +0000" stop="20260610232602 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">The Broca Divide</sub-title>
+        <episode-num system="onscreen">S1 E5</episode-num>
+        <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Members of SG-1 become infected with an alien virus that turns them into primitive beings. Dr. Fraiser must find a cure to save the team and the alien population from whom it was contracted.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610232602 +0000" stop="20260611001016 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">The First Commandment</sub-title>
+        <episode-num system="onscreen">S1 E6</episode-num>
+        <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The SG-1 team is sent after the SG-9 team that has failed to return. They find that SG-9's captain, having been treated like a god by planetary inhabitants, is drunk with power and is tyrannizing them. Can they overcome him?</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611001016 +0000" stop="20260611005430 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Cold Lazarus</sub-title>
+        <episode-num system="onscreen">S1 E7</episode-num>
+        <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">When Jack is injured unintentionally by a crystal alien, the alien duplicates Jack's form and out of fear of retribution tries to heal Jack. He returns to Earth in place of Jack, while Jack is still unconscious on the planet, to find the one thing he feels will accomplish this; the one thing that cannot be found again. Meanwhile, the 'real' Jack has returned and is trying to convince SGC that he is who he says he is.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611005430 +0000" stop="20260611013844 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">The Nox</sub-title>
+        <episode-num system="onscreen">S1 E8</episode-num>
+        <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">With the Stargate program in danger of being terminated, the team is under pressure to find new technology. Visiting a planet where they believe there is a creature that possesses the secret of invisibility, they encounter Apophis and his guards. Both sides receiving mortal wounds, they are aided by the planet's inhabitants, the Nox, a gentle people with a very large secret.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611013844 +0000" stop="20260611022258 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Brief Candle</sub-title>
+        <episode-num system="onscreen">S1 E9</episode-num>
+        <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">SG-1 discovers a race of attractive people who age extremely rapidly. The situation becomes personal when O'Neill begins to suffer from the same accelerated aging, and must live out the rest of his life on the planet.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611022258 +0000" stop="20260611030712 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Thor's Hammer</sub-title>
+        <episode-num system="onscreen">S1 E10</episode-num>
+        <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">SG-1 goes to the planet Cimmeria in search of allies against the Goa'uld. Upon arrival, Jack and Teal'c are trapped in a labyrinth, where the only exit is through Thor's Hammer, a device to destroy Goa'uld, but preserve the host. Daniel Jackson must destroy the device that could someday have saved his wife in order to free his friends.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611030712 +0000" stop="20260611035126 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">The Torment of Tantalus</sub-title>
+        <episode-num system="onscreen">S1 E11</episode-num>
+        <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Daniel Jackson discovers that the Stargate was activated in 1945 and a young professor went through, never to return. Together with his still living fiancée, the SG1 team discover the now aged professor, naked and trapped in a decaying fortress, containing the secrets of an Ancient alliance. Will they be able to rescue him and escape to earth in time?</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611035126 +0000" stop="20260611043540 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Bloodlines</sub-title>
+        <episode-num system="onscreen">S1 E12</episode-num>
+        <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Teal'c returns to Chulak to stop his people from implanting his son with a larval Goa'uld.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611043540 +0000" stop="20260611051954 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Fire and Water</sub-title>
+        <episode-num system="onscreen">S1 E13</episode-num>
+        <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">O'Neill, Carter and Teal'c return through the Stargate shell-shocked and distressed to announce that Daniel Jackson was killed. But Jackson was captured by the last survivor of an aquatic race, who planted false memories in the other members of SG1. Can the team remember and return to rescue Daniel?</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611051954 +0000" stop="20260611060408 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Hathor</sub-title>
+        <episode-num system="onscreen">S1 E14</episode-num>
+        <episode-num system="xmltv_ns">0.13.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The Goa'uld Hathor (one of the mothers of all Goa'uld), brainwashes the men of the SGC with pheromones, and nearly makes Jack a host to a larva conceived with Daniel. She flees after the unaffected women of Stargate Command retake the facility.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611060408 +0000" stop="20260611064822 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Singularity</sub-title>
+        <episode-num system="onscreen">S1 E15</episode-num>
+        <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">A mysterious affliction wipes out the entire population of a planet, plus an SG team -- except for one young girl. Carter befriends her, but learns that she is being used by the Goa'uld.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611064822 +0000" stop="20260611073236 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Cor-Ai</sub-title>
+        <episode-num system="onscreen">S1 E16</episode-num>
+        <episode-num system="xmltv_ns">0.15.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">SG-1 travel to a planet where Teal'c is recognised as once having been head Jaffa to Apophis. He is arrested for the murder of a villager and put on trial for his life. Then other Jaffa attack the village. Will SG-1 be able to save Teal'c and prove that he has changed allegiance?</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611073236 +0000" stop="20260611081650 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Enigma</sub-title>
+        <episode-num system="onscreen">S1 E17</episode-num>
+        <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The SG-1 team rescues a group of advanced humans from a planet near destruction, and must find a new home for the refugees before the Pentagon gets their hands on them.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611081650 +0000" stop="20260611090104 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Solitudes</sub-title>
+        <episode-num system="onscreen">S1 E18</episode-num>
+        <episode-num system="xmltv_ns">0.17.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Following a Stargate technical defect, O'Neill and Carter are stranded next to a Stargate in a cave on an icy wasteland. O'Neill is severely wounded and both are freezing. Will the SGC find and rescue them in time?</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260611090104 +0000" stop="20260611094518 +0000" channel="4">
+        <title lang="en">Stargate SG-1</title>
+        <previously-shown/>
+        <sub-title lang="en">Tin Man</sub-title>
+        <episode-num system="onscreen">S1 E19</episode-num>
+        <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/2928/thumb/1780973882?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">After arriving on P3X-989, the team are rendered unconscious. When they wake, they return to Earth, but soon find out that they are androids. The team must return to the planet to find out what happened to their real bodies.</desc>
+        <rating system="MPAA">
+            <value>TV-PG</value>
+        </rating>
+    </programme>
+    <programme start="20260610210204 +0000" stop="20260610214646 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Guts</sub-title>
+        <episode-num system="onscreen">S1 E2</episode-num>
+        <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence, as Rick must confront an enemy far more dangerous than the undead.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610214646 +0000" stop="20260610223157 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Tell It to the Frogs</sub-title>
+        <episode-num system="onscreen">S1 E3</episode-num>
+        <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">After returning to the camp with the department store survivors and an emotional reunion with his wife and son, Rick decides to go against Shane's advice and go back to Atlanta for Merle Dixon and his dropped bag of guns accompanied by Merle's younger brother, Darryl Dixon, as well as Glenn and T-Dog.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610223157 +0000" stop="20260610231651 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Vatos</sub-title>
+        <episode-num system="onscreen">S1 E4</episode-num>
+        <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick, Glenn, T-Dog, and Daryl move on after their grisly discovery to retrieve the guns when they encounter a group of scavengers who narrowly beat them to the catch. However, Glenn is kidnapped in the scuffle, which leads to a tense stand-off and a surprising discovery. Meanwhile, back at camp, the group has to handle a serious situation when Jim begins acting unhinged.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610231651 +0000" stop="20260611000206 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Wildfire</sub-title>
+        <episode-num system="onscreen">S1 E5</episode-num>
+        <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Everyone deals with the fallout of the walker attack. Andrea has to come to grips with the fate of her sister, while Jim is found out to have been bitten. With the camp clearly no longer safe, a decision must made about the direction they are to take.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611000206 +0000" stop="20260611004728 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">TS-19</sub-title>
+        <episode-num system="onscreen">S1 E6</episode-num>
+        <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick and the group are allowed into the CDC by a strange doctor, but all is not what it seems in their newfound haven.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611004728 +0000" stop="20260611015017 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">What Lies Ahead</sub-title>
+        <episode-num system="onscreen">S2 E1</episode-num>
+        <episode-num system="xmltv_ns">1.0.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick and the group leave Atlanta and encounter a threat on the highway the likes of which they've never seen. Elsewhere, the group search for a missing person.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611015017 +0000" stop="20260611023238 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Bloodletting</sub-title>
+        <episode-num system="onscreen">S2 E2</episode-num>
+        <episode-num system="xmltv_ns">1.1.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick discovers a possible safe haven. Shane must go on a dangerous mission to get needed medical supplies.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611023238 +0000" stop="20260611031555 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Save the Last One</sub-title>
+        <episode-num system="onscreen">S2 E3</episode-num>
+        <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">The group desperately awaits Shane's return. Shane finds himself trapped in a school, surrounded by the undead. Daryl and Andrea search for someone in the woods.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611031555 +0000" stop="20260611035917 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Cherokee Rose</sub-title>
+        <episode-num system="onscreen">S2 E4</episode-num>
+        <episode-num system="xmltv_ns">1.3.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Shane makes a deadly sacrifice which leads to unusual behavior and self-distancing. The rest of the group tries to hang on somewhere between living to die and dying to live.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611035917 +0000" stop="20260611044215 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Chupacabra</sub-title>
+        <episode-num system="onscreen">S2 E5</episode-num>
+        <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Concerned for their safety, the group makes a plan – one that Hershel disagrees with adamantly. He makes it clear the group is fine to stay for now, but not indefinitely.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611044215 +0000" stop="20260611052512 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Secrets</sub-title>
+        <episode-num system="onscreen">S2 E6</episode-num>
+        <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Secrets are told and secrets are revealed. Hershel refuses to acknowledge the world’s new reality. Andrea comes out of her shell. Everyone is becoming more and more aware that “everything is food for something.”</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611052512 +0000" stop="20260611060801 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Pretty Much Dead Already</sub-title>
+        <episode-num system="onscreen">S2 E7</episode-num>
+        <episode-num system="xmltv_ns">1.6.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Hershel sets a deadline. All secrets are out in the open. Glenn stands up for himself and Shane takes charge.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611060801 +0000" stop="20260611065055 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Nebraska</sub-title>
+        <episode-num system="onscreen">S2 E8</episode-num>
+        <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick and the others try to restore order in the aftermath of a terrible discovery. Hershel takes up an old habit and disappears, Rick and Glenn must follow him into town.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611065055 +0000" stop="20260611073354 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Triggerfinger</sub-title>
+        <episode-num system="onscreen">S2 E9</episode-num>
+        <episode-num system="xmltv_ns">1.8.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick, Hershel and Glen are trapped and fight to survive; Shane finds Lori in danger.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611073354 +0000" stop="20260611081630 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">18 Miles Out</sub-title>
+        <episode-num system="onscreen">S2 E10</episode-num>
+        <episode-num system="xmltv_ns">1.9.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick and Shane are in conflict over the fate of an outsider; Andrea helps Hershel's daughter face a crucial decision.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611081630 +0000" stop="20260611085927 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Judge, Jury, Executioner</sub-title>
+        <episode-num system="onscreen">S2 E11</episode-num>
+        <episode-num system="xmltv_ns">1.10.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Rick sides with Shane causing Dale to worry that the group is losing its humanity; Carl's actions have unintended consequences.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260611085927 +0000" stop="20260611094238 +0000" channel="5">
+        <title lang="en">The Walking Dead</title>
+        <previously-shown/>
+        <sub-title lang="en">Better Angels</sub-title>
+        <episode-num system="onscreen">S2 E12</episode-num>
+        <episode-num system="xmltv_ns">1.11.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/3529/thumb/1778645798?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">Someone dangerous may be loose near the farm; Rick, Shane, Daryl and Glenn keep the group safe.</desc>
+        <rating system="MPAA">
+            <value>TV-MA</value>
+        </rating>
+    </programme>
+    <programme start="20260610210000 +0000" stop="20260610212226 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 101</sub-title>
+        <episode-num system="onscreen">S1 E101</episode-num>
+        <episode-num system="xmltv_ns">0.100.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610212226 +0000" stop="20260610214458 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 102</sub-title>
+        <episode-num system="onscreen">S1 E102</episode-num>
+        <episode-num system="xmltv_ns">0.101.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610214458 +0000" stop="20260610220727 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 103</sub-title>
+        <episode-num system="onscreen">S1 E103</episode-num>
+        <episode-num system="xmltv_ns">0.102.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610220727 +0000" stop="20260610222951 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 104</sub-title>
+        <episode-num system="onscreen">S1 E104</episode-num>
+        <episode-num system="xmltv_ns">0.103.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610222951 +0000" stop="20260610225214 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 105</sub-title>
+        <episode-num system="onscreen">S1 E105</episode-num>
+        <episode-num system="xmltv_ns">0.104.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610225214 +0000" stop="20260610231439 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 106</sub-title>
+        <episode-num system="onscreen">S1 E106</episode-num>
+        <episode-num system="xmltv_ns">0.105.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610231439 +0000" stop="20260610233704 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 107</sub-title>
+        <episode-num system="onscreen">S1 E107</episode-num>
+        <episode-num system="xmltv_ns">0.106.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610233704 +0000" stop="20260610235930 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 108</sub-title>
+        <episode-num system="onscreen">S1 E108</episode-num>
+        <episode-num system="xmltv_ns">0.107.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260610235930 +0000" stop="20260611002157 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 109</sub-title>
+        <episode-num system="onscreen">S1 E109</episode-num>
+        <episode-num system="xmltv_ns">0.108.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611002157 +0000" stop="20260611004424 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 110</sub-title>
+        <episode-num system="onscreen">S1 E110</episode-num>
+        <episode-num system="xmltv_ns">0.109.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611004424 +0000" stop="20260611010650 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 111</sub-title>
+        <episode-num system="onscreen">S1 E111</episode-num>
+        <episode-num system="xmltv_ns">0.110.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611010650 +0000" stop="20260611012916 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 112</sub-title>
+        <episode-num system="onscreen">S1 E112</episode-num>
+        <episode-num system="xmltv_ns">0.111.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611012916 +0000" stop="20260611015142 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 113</sub-title>
+        <episode-num system="onscreen">S1 E113</episode-num>
+        <episode-num system="xmltv_ns">0.112.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611015142 +0000" stop="20260611021355 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 201</sub-title>
+        <episode-num system="onscreen">S2 E201</episode-num>
+        <episode-num system="xmltv_ns">1.200.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611021355 +0000" stop="20260611023609 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 202</sub-title>
+        <episode-num system="onscreen">S2 E202</episode-num>
+        <episode-num system="xmltv_ns">1.201.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611023609 +0000" stop="20260611025826 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 203</sub-title>
+        <episode-num system="onscreen">S2 E203</episode-num>
+        <episode-num system="xmltv_ns">1.202.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611025826 +0000" stop="20260611032041 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 204</sub-title>
+        <episode-num system="onscreen">S2 E204</episode-num>
+        <episode-num system="xmltv_ns">1.203.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611032041 +0000" stop="20260611034301 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 205</sub-title>
+        <episode-num system="onscreen">S2 E205</episode-num>
+        <episode-num system="xmltv_ns">1.204.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611034301 +0000" stop="20260611040511 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 206</sub-title>
+        <episode-num system="onscreen">S2 E206</episode-num>
+        <episode-num system="xmltv_ns">1.205.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611040511 +0000" stop="20260611042727 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 207</sub-title>
+        <episode-num system="onscreen">S2 E207</episode-num>
+        <episode-num system="xmltv_ns">1.206.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611042727 +0000" stop="20260611045008 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 208</sub-title>
+        <episode-num system="onscreen">S2 E208</episode-num>
+        <episode-num system="xmltv_ns">1.207.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611045008 +0000" stop="20260611051224 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 209</sub-title>
+        <episode-num system="onscreen">S2 E209</episode-num>
+        <episode-num system="xmltv_ns">1.208.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611051224 +0000" stop="20260611053434 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 210</sub-title>
+        <episode-num system="onscreen">S2 E210</episode-num>
+        <episode-num system="xmltv_ns">1.209.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611053434 +0000" stop="20260611055548 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 211</sub-title>
+        <episode-num system="onscreen">S2 E211</episode-num>
+        <episode-num system="xmltv_ns">1.210.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611055548 +0000" stop="20260611061647 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 212</sub-title>
+        <episode-num system="onscreen">S2 E212</episode-num>
+        <episode-num system="xmltv_ns">1.211.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611061647 +0000" stop="20260611063759 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 213</sub-title>
+        <episode-num system="onscreen">S2 E213</episode-num>
+        <episode-num system="xmltv_ns">1.212.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611063759 +0000" stop="20260611070014 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 301</sub-title>
+        <episode-num system="onscreen">S3 E301</episode-num>
+        <episode-num system="xmltv_ns">2.300.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611070014 +0000" stop="20260611072230 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 302</sub-title>
+        <episode-num system="onscreen">S3 E302</episode-num>
+        <episode-num system="xmltv_ns">2.301.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611072230 +0000" stop="20260611074446 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 303</sub-title>
+        <episode-num system="onscreen">S3 E303</episode-num>
+        <episode-num system="xmltv_ns">2.302.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611074446 +0000" stop="20260611080629 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 304</sub-title>
+        <episode-num system="onscreen">S3 E304</episode-num>
+        <episode-num system="xmltv_ns">2.303.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611080629 +0000" stop="20260611082843 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 305</sub-title>
+        <episode-num system="onscreen">S3 E305</episode-num>
+        <episode-num system="xmltv_ns">2.304.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611082843 +0000" stop="20260611085059 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 306</sub-title>
+        <episode-num system="onscreen">S3 E306</episode-num>
+        <episode-num system="xmltv_ns">2.305.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611085059 +0000" stop="20260611091230 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 307</sub-title>
+        <episode-num system="onscreen">S3 E307</episode-num>
+        <episode-num system="xmltv_ns">2.306.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+    <programme start="20260611091230 +0000" stop="20260611093400 +0000" channel="6">
+        <title lang="en">How It's Made</title>
+        <previously-shown/>
+        <sub-title lang="en">Episode 308</sub-title>
+        <episode-num system="onscreen">S3 E308</episode-num>
+        <episode-num system="xmltv_ns">2.307.0/1</episode-num>
+        <icon src="https://192-168-1-40.e631e37f4f0846349b0326e8bfd5de38.plex.direct:32400/library/metadata/20866/thumb/1781125930?X-Plex-Token=Py3Bq1zseeFa5zoNCaFB"/>
+        <desc lang="en">How its made</desc>
+        <rating system="MPAA">
+            <value>TV-G</value>
+        </rating>
+    </programme>
+</tv>
