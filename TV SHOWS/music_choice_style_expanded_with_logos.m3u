@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="today's_hits_mix" tvg-name="Today's Hits Mix" tvg-chno="1" tvg-logo="https://dummyimage.com/512x512/d81b60/ffffff.png&text=Hits" group-title="Test Music Channels",Today's Hits Mix
+https://stream.radioparadise.com/mp3-128
+#EXTINF:-1 tvg-id="pop_indie_hits" tvg-name="Pop / Indie Hits" tvg-chno="2" tvg-logo="https://dummyimage.com/512x512/d81b60/ffffff.png&text=Hits" group-title="Test Music Channels",Pop / Indie Hits
+https://ice2.somafm.com/indiepop-128-mp3
+#EXTINF:-1 tvg-id="90s_2000s_mix" tvg-name="90s / 2000s Mix" tvg-chno="3" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",90s / 2000s Mix
+https://stream.radioparadise.com/rock-128
+#EXTINF:-1 tvg-id="adult_alternative" tvg-name="Adult Alternative" tvg-chno="4" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Adult Alternative
+https://stream.radioparadise.com/mellow-128
+#EXTINF:-1 tvg-id="world_global_hits" tvg-name="World / Global Hits" tvg-chno="5" tvg-logo="https://dummyimage.com/512x512/d81b60/ffffff.png&text=Hits" group-title="Test Music Channels",World / Global Hits
+https://stream.radioparadise.com/global-128
+#EXTINF:-1 tvg-id="country" tvg-name="Country" tvg-chno="6" tvg-logo="https://dummyimage.com/512x512/2f6f3e/ffffff.png&text=Country" group-title="Test Music Channels",Country
+https://ice2.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="classic_country" tvg-name="Classic Country" tvg-chno="7" tvg-logo="https://dummyimage.com/512x512/2f6f3e/ffffff.png&text=Country" group-title="Test Music Channels",Classic Country
+https://ice1.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="americana" tvg-name="Americana" tvg-chno="8" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Americana
+https://ice4.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="outlaw_country" tvg-name="Outlaw Country" tvg-chno="9" tvg-logo="https://dummyimage.com/512x512/2f6f3e/ffffff.png&text=Country" group-title="Test Music Channels",Outlaw Country
+https://ice6.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="roots_country" tvg-name="Roots Country" tvg-chno="10" tvg-logo="https://dummyimage.com/512x512/2f6f3e/ffffff.png&text=Country" group-title="Test Music Channels",Roots Country
+https://ice5.somafm.com/bootliquor-128-mp3
+#EXTINF:-1 tvg-id="classic_rock" tvg-name="Classic Rock" tvg-chno="11" tvg-logo="https://dummyimage.com/512x512/444444/ffffff.png&text=Rock" group-title="Test Music Channels",Classic Rock
+https://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-id="rock_mix" tvg-name="Rock Mix" tvg-chno="12" tvg-logo="https://dummyimage.com/512x512/444444/ffffff.png&text=Rock" group-title="Test Music Channels",Rock Mix
+https://stream.radioparadise.com/rock-128
+#EXTINF:-1 tvg-id="alternative_rock" tvg-name="Alternative Rock" tvg-chno="13" tvg-logo="https://dummyimage.com/512x512/444444/ffffff.png&text=Rock" group-title="Test Music Channels",Alternative Rock
+https://ice2.somafm.com/bagel-128-mp3
+#EXTINF:-1 tvg-id="indie_rock" tvg-name="Indie Rock" tvg-chno="14" tvg-logo="https://dummyimage.com/512x512/444444/ffffff.png&text=Rock" group-title="Test Music Channels",Indie Rock
+https://ice4.somafm.com/indiepop-128-mp3
+#EXTINF:-1 tvg-id="hard_rock_garage" tvg-name="Hard Rock / Garage" tvg-chno="15" tvg-logo="https://dummyimage.com/512x512/444444/ffffff.png&text=Rock" group-title="Test Music Channels",Hard Rock / Garage
+https://ice2.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-id="hip-hop_beats" tvg-name="Hip-Hop Beats" tvg-chno="16" tvg-logo="https://dummyimage.com/512x512/111111/ffffff.png&text=Hip-Hop" group-title="Test Music Channels",Hip-Hop Beats
+https://ice2.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-id="chillhop" tvg-name="Chillhop" tvg-chno="17" tvg-logo="https://dummyimage.com/512x512/00838f/ffffff.png&text=Chill" group-title="Test Music Channels",Chillhop
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="randb_chill_mix" tvg-name="R&B Chill Mix" tvg-chno="18" tvg-logo="https://dummyimage.com/512x512/00838f/ffffff.png&text=Chill" group-title="Test Music Channels",R&B Chill Mix
+https://ice4.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-id="instrumental_beats" tvg-name="Instrumental Beats" tvg-chno="19" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Instrumental Beats
+https://ice6.somafm.com/beatblender-128-mp3
+#EXTINF:-1 tvg-id="dance_edm" tvg-name="Dance / EDM" tvg-chno="20" tvg-logo="https://dummyimage.com/512x512/6a1b9a/ffffff.png&text=Dance" group-title="Test Music Channels",Dance / EDM
+https://ice2.somafm.com/cliqhop-128-mp3
+#EXTINF:-1 tvg-id="deep_house" tvg-name="Deep House" tvg-chno="21" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Deep House
+https://ice2.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-id="groove_salad" tvg-name="Groove Salad" tvg-chno="22" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Groove Salad
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="drone_zone" tvg-name="Drone Zone" tvg-chno="23" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Drone Zone
+https://ice2.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-id="space_station_soma" tvg-name="Space Station Soma" tvg-chno="24" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Space Station Soma
+https://ice2.somafm.com/spacestation-128-mp3
+#EXTINF:-1 tvg-id="70s_mix" tvg-name="70s Mix" tvg-chno="25" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",70s Mix
+https://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-id="80s_underground" tvg-name="80s Underground" tvg-chno="26" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",80s Underground
+https://ice2.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-id="retro_wave" tvg-name="Retro Wave" tvg-chno="27" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Retro Wave
+https://ice2.somafm.com/synphaera-128-mp3
+#EXTINF:-1 tvg-id="classic_alternative" tvg-name="Classic Alternative" tvg-chno="28" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Classic Alternative
+https://ice4.somafm.com/bagel-128-mp3
+#EXTINF:-1 tvg-id="jazz_lounge" tvg-name="Jazz Lounge" tvg-chno="29" tvg-logo="https://dummyimage.com/512x512/1b4f72/ffffff.png&text=Jazz" group-title="Test Music Channels",Jazz Lounge
+https://ice2.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-id="blues" tvg-name="Blues" tvg-chno="30" tvg-logo="https://dummyimage.com/512x512/0d47a1/ffffff.png&text=Blues" group-title="Test Music Channels",Blues
+https://ice2.somafm.com/blues-128-mp3
+#EXTINF:-1 tvg-id="classical_mellow" tvg-name="Classical / Mellow" tvg-chno="31" tvg-logo="https://dummyimage.com/512x512/8d6e63/ffffff.png&text=Classical" group-title="Test Music Channels",Classical / Mellow
+https://stream.radioparadise.com/mellow-128
+#EXTINF:-1 tvg-id="easy_listening" tvg-name="Easy Listening" tvg-chno="32" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Easy Listening
+https://ice2.somafm.com/illstreet-128-mp3
+#EXTINF:-1 tvg-id="lounge" tvg-name="Lounge" tvg-chno="33" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Lounge
+https://ice2.somafm.com/secretagent-128-mp3
+#EXTINF:-1 tvg-id="chill" tvg-name="Chill" tvg-chno="34" tvg-logo="https://dummyimage.com/512x512/00838f/ffffff.png&text=Chill" group-title="Test Music Channels",Chill
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 tvg-id="ambient" tvg-name="Ambient" tvg-chno="35" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Ambient
+https://ice2.somafm.com/dronezone-128-mp3
+#EXTINF:-1 tvg-id="sleep_relax" tvg-name="Sleep / Relax" tvg-chno="36" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Sleep / Relax
+https://ice2.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1 tvg-id="meditation" tvg-name="Meditation" tvg-chno="37" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Meditation
+https://ice2.somafm.com/fluid-128-mp3
+#EXTINF:-1 tvg-id="christmas_holiday" tvg-name="Christmas / Holiday" tvg-chno="38" tvg-logo="https://dummyimage.com/512x512/c62828/ffffff.png&text=Holiday" group-title="Test Music Channels",Christmas / Holiday
+https://ice2.somafm.com/xmasinfrisko-128-mp3
+#EXTINF:-1 tvg-id="christmas_lounge" tvg-name="Christmas Lounge" tvg-chno="39" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Christmas Lounge
+https://ice2.somafm.com/christmas-128-mp3
+#EXTINF:-1 tvg-id="halloween_darkwave" tvg-name="Halloween / Darkwave" tvg-chno="40" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Halloween / Darkwave
+https://ice2.somafm.com/darkzone-128-mp3
+#EXTINF:-1 tvg-id="movie_secret_agent" tvg-name="Movie / Secret Agent" tvg-chno="41" tvg-logo="https://dummyimage.com/512x512/555555/ffffff.png&text=Music" group-title="Test Music Channels",Movie / Secret Agent
+https://ice2.somafm.com/secretagent-128-mp3
