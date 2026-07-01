@@ -1,0 +1,645 @@
+#EXTM3U
+#PLAYLIST: 60s.m3u
+#PLAYLIST:Online radio: 60S Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556692200.jpg" group-title="TEST Music Channels", CLASSIC ROCK MIAMI - 128 kbit/s
+https://streamingp.shoutcast.com/classic-rock-miami?lang=*
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555263111.jpg" group-title="TEST Music Channels", Classic Rock Florida - 128 kbit/s
+https://streamingp.shoutcast.com/ClassicRockFlorida?lang=*
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 60s_70s - 192 kbit/s
+https://strm112.1.fm/60s_70s_mobile_mp3
+#PLAYLIST: 70s.m3u
+#PLAYLIST:Online radio: 70S Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537460676.jpg" group-title="TEST Music Channels", ORF Radio Tirol - 192 kbit/s
+https://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537514289.jpg" group-title="TEST Music Channels", ORF Radio Vorarlberg - 192 kbit/s
+https://orf-live.ors-shoutcast.at/vbg-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403668484.png" group-title="TEST Music Channels", CLASSIC ROCK MIAMI - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555263111.jpg" group-title="TEST Music Channels", Classic Rock Florida - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550034280.jpg" group-title="TEST Music Channels", ORF Radio Burgenland - 128 kbit/s
+https://orf-live.ors-shoutcast.at/bgl-q1a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Absolute 70&#039;s Pop Radio - 192 kbit/s
+https://strm112.1.fm/70s_128
+#PLAYLIST: 80s.m3u
+#PLAYLIST:Online radio: 80S Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/15899.jpg" group-title="TEST Music Channels", HITRADIO OE3 - 192 kbit/s
+https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537461328.jpg" group-title="TEST Music Channels", ORF Radio Wien - 192 kbit/s
+https://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537460676.jpg" group-title="TEST Music Channels", ORF Radio Tirol - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537514289.jpg" group-title="TEST Music Channels", ORF Radio Vorarlberg - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1537500573.jpg" group-title="TEST Music Channels", Radio 80 FM - Hits anos 80 - 128 kbit/s
+https://centova.euroti.com.br:20001/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/19134.jpg" group-title="TEST Music Channels", CLASSIC ROCK MIAMI - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555263111.jpg" group-title="TEST Music Channels", Classic Rock Florida - 128 kbit/s
+#PLAYLIST: 90s.m3u
+#PLAYLIST:Online radio: 90S Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/15899.jpg" group-title="TEST Music Channels", HITRADIO OE3 - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537461328.jpg" group-title="TEST Music Channels", ORF Radio Wien - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Disco Polo - 128 kbit/s
+https://s1.slotex.pl:7432/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555263111.jpg" group-title="TEST Music Channels", Classic Rock Florida - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1595122649.jpg" group-title="TEST Music Channels", Blackwood FM - 192 kbit/s
+https://server-21.stream-server.nl:18326/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - Megamix - 128 kbit/s
+https://centova5.transmissaodigital.com:20023/stream/1/
+#PLAYLIST: acid_jazz.m3u
+#PLAYLIST:Online radio: ACID Music (www.radio.pervii.com)
+#PLAYLIST: african.m3u
+#PLAYLIST:Online radio: AFRICAN Music (www.radio.pervii.com)
+rtsp://148.obj.netromedia.net/radiocitizenlive/radiocitizenlive
+#PLAYLIST: alternative.m3u
+#PLAYLIST:Online radio: ALTERNATIVE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1549467498.jpg" group-title="TEST Music Channels", ROCK ANTENNE Alternative - 128 kbit/s
+https://s6-webradio.antenne.de/alternative
+#PLAYLIST: ambient.m3u
+#PLAYLIST:Online radio: AMBIENT Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Lounge Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motionthree_aacp?=3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1560865330.jpg" group-title="TEST Music Channels", MGT Love Hits - 128 kbit/s
+https://cast.mgtradio.net/radio/8010/mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553500478.jpg" group-title="TEST Music Channels", Ambient Lounge on MixLive.ie - 192 kbit/s
+https://strw3.openstream.co/2348?aw_0_1st.collectionid%3D6273%26stationId%3D6273%26publisherId%3D2372%26k%3D1761737245
+#PLAYLIST: americana.m3u
+#PLAYLIST:Online radio: AMERICANA Music (www.radio.pervii.com)
+#PLAYLIST: anime.m3u
+#PLAYLIST:Online radio: ANIME Music (www.radio.pervii.com)
+#PLAYLIST: arabic.m3u
+#PLAYLIST:Online radio: ARABIC Music (www.radio.pervii.com)
+mms://unitedinislam.com:8002
+#PLAYLIST: asian.m3u
+#PLAYLIST:Online radio: ASIAN Music (www.radio.pervii.com)
+mms://media.ccdntech.com/vod09/wma/3_20111230_2300_104.wma
+#PLAYLIST: big_band.m3u
+#PLAYLIST:Online radio: BIG Music (www.radio.pervii.com)
+#PLAYLIST: bluegrass.m3u
+#PLAYLIST:Online radio: BLUEGRASS Music (www.radio.pervii.com)
+#PLAYLIST: blues.m3u
+#PLAYLIST:Online radio: BLUES Music (www.radio.pervii.com)
+/88.198.69.145:8120/
+#PLAYLIST: breakbeat.m3u
+#PLAYLIST:Online radio: BREAKBEAT Music (www.radio.pervii.com)
+#PLAYLIST: chillout.m3u
+#PLAYLIST:Online radio: CHILLOUT Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Lounge Motion FM - MotionFM.com - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553500478.jpg" group-title="TEST Music Channels", Ambient Lounge on MixLive.ie - 192 kbit/s
+https://strw3.openstream.co/2348?aw_0_1st.collectionid%3D6273%26stationId%3D6273%26publisherId%3D2372%26k%3D1761737319
+#PLAYLIST: christian.m3u
+#PLAYLIST:Online radio: CHRISTIAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1549783871.jpg" group-title="TEST Music Channels", DWG Radio - 128 kbit/s
+https://server23644.streamplus.de/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1573967919.jpg" group-title="TEST Music Channels", Hope 103.2 - 64 kbit/s
+https://23093.live.streamtheworld.com/2CBAAAC.aac
+#PLAYLIST: classical.m3u
+#PLAYLIST:Online radio: CLASSICAL Music (www.radio.pervii.com)
+#PLAYLIST: club.m3u
+#PLAYLIST:Online radio: CLUB Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/94123.jpg" group-title="TEST Music Channels", bigFM URBAN CLUB BEATS (DJ-MIX) - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=6901sn90%230%239po5op60783n8s42pq247700r179s576%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761737360
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+https://s3.slotex.pl:7354/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1593394559.jpg" group-title="TEST Music Channels", ABC Dance - 192 kbit/s
+https://listen.radioking.com/radio/324967/stream/374263?=1
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Club Powerplay HipHop - 128 kbit/s
+https://kathy.torontocast.com:3350/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - Clube da Crianca - 64 kbit/s
+https://centova5.transmissaodigital.com:20011/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403757685.png" group-title="TEST Music Channels", Pearl Jam&#039;s 10 Club Radio - 128 kbit/s
+https://radio.nugs.net/pearljam
+mms://radioclubedorock.no-ip.org:1000
+#PLAYLIST: college.m3u
+#PLAYLIST:Online radio: COLLEGE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1586627626.jpg" group-title="TEST Music Channels", College Underground Radio - 128 kbit/s
+https://streamer.radio.co/sbc698b4e9/listen
+mms://adam2.wheaton.edu/live
+mms://windowsmedia.marshall.edu/wmulfm/zz_listenlivelink/opener1.wma
+mms://venus.palomar.edu/kksm
+mms://134.139.144.25:8080
+mms://streamer.morgan.edu/wmtencoder/weaa
+mms://72.237.94.75:23541
+mms://media.whitworth.edu/kwrs/webcast.asf
+mms://stream.sckans.edu/kswc
+mms://a1453.l987359452.c9873.g.lm.akamaistream.net/D/1453/9873/v0001/reflector:59452
+mms://wmedia.jsu.edu:1999
+mms://bms.brtk.net/bayrakfm
+#PLAYLIST: comedy.m3u
+#PLAYLIST:Online radio: COMEDY Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/102409.jpg" group-title="TEST Music Channels", Comedy - 128 kbit/s
+https://17573.live.streamtheworld.com/977_COMEDY.mp3
+#PLAYLIST: country.m3u
+#PLAYLIST:Online radio: COUNTRY Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/12774.jpg" group-title="TEST Music Channels", Unspecified name - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jazzblues-high.mp3
+#PLAYLIST: dance.m3u
+#PLAYLIST:Online radio: DANCE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Disco Polo - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537582629.jpg" group-title="TEST Music Channels", B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+https://eu10.fastcast4u.com:8120/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555123181.jpg" group-title="TEST Music Channels", DANCE.FM :: The Beat of Amsterdam :: - 192 kbit/s
+https://streams.dancefm.net/mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1550165325.jpg" group-title="TEST Music Channels", MegaHit - 192 kbit/s
+https://air.broadcastinggroup.ro/MegaHit
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555082226.jpg" group-title="TEST Music Channels", Hot Dance Radio - Hits With A Beat! - 192 kbit/s
+https://22333.live.streamtheworld.com/HOTDANCERADIO2.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1578244376.jpg" group-title="TEST Music Channels", Q-dance Radio - 192 kbit/s
+https://22713.live.streamtheworld.com/Q_DANCE.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537499288.jpg" group-title="TEST Music Channels", TOPradio Belgium (AACv2) - 128 kbit/s
+https://28563.live.streamtheworld.com/TOP_RADIOAAC.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1563844970.jpg" group-title="TEST Music Channels", Energy FM - Dance Music Radio - 128 kbit/s
+https://radio.streemlion.com:1875/stream
+#PLAYLIST: deutsch.m3u
+#PLAYLIST:Online radio: DEUTSCH Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Radio - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_iloveradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI1JmQ9YzJjZjU5NDEzMjM4MzU2OTBiNGY
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Pop Powerplay - 128 kbit/s
+https://kathy.torontocast.com:3560/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Mashup by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilovemashup_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI1JmQ9ODk5N2U0NWZhY2Q3MTZjY2Q2M2E
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Hip Hop by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilovehiphop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI2JmQ9ZDExYWFkYTgwY2VkZGU5MDAwNzg
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Hits History by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilovehitshistory_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI2JmQ9OTdlZjRhMzFjYTlhZWY1MmI1ZjY
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Music &amp; Chill by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilovemusicandchill_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI3JmQ9YWVmMjI3NWQ1ZDZhZjVmNTI1NWM
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/92665.jpg" group-title="TEST Music Channels", SR3 Oldiewelt - 128 kbit/s
+https://d131.rndfnk.com/ard/sr/sr3c2/mp3/128/stream.mp3?cid=01FH5AWYJA12WVABJYB6X4185E&sid=34jqf454CzyLXxNoNyJMswnG3mI&token=_TdZPUIBlFuSdXti7STClJQC05veA5bNT5LakCpQiEI&tvf=ZQouhYAGcxhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1549783871.jpg" group-title="TEST Music Channels", DWG Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Deutschrap Beste by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapbeste_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3NzI4JmQ9Yzg0NTkyM2QzNjdiNjFmNWE4ZTI
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1587441181.jpg" group-title="TEST Music Channels", Ultradark-Radio - 128 kbit/s
+https://ultradarkradio.stream.laut.fm/ultradarkradio?t302=2025-10-29_11-30-31&uuid=86c07fa6-e1c2-4d93-8f26-6a18f1b0c4eb
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1593372813.jpg" group-title="TEST Music Channels", Radio Derventa 2 - 128 kbit/s
+https://stream.radiodijaspora.com/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403406678.png" group-title="TEST Music Channels", ORF Radio Niederoesterreich - 128 kbit/s
+https://orf-live.ors-shoutcast.at/noe-q1a
+#PLAYLIST: disco.m3u
+#PLAYLIST:Online radio: DISCO Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Disco Polo - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537582629.jpg" group-title="TEST Music Channels", B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1572512004.jpg" group-title="TEST Music Channels", JACKSON PALACE RADIO GR - 192 kbit/s
+https://jacksonspalace.radioca.st/stream/1/
+#PLAYLIST: discofox.m3u
+#PLAYLIST:Online radio: DISCOFOX Music (www.radio.pervii.com)
+#PLAYLIST: downtempo.m3u
+#PLAYLIST:Online radio: DOWNTEMPO Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Lounge Motion FM - MotionFM.com - 192 kbit/s
+#PLAYLIST: drum_and_bass.m3u
+#PLAYLIST:Online radio: DRUM Music (www.radio.pervii.com)
+#PLAYLIST: easy_listening.m3u
+#PLAYLIST:Online radio: EASY Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="TEST Music Channels", 181.FM Chilled Out - 128 kbit/s
+https://listen.181fm.com/181-chilled_128k.mp3?noPreRoll=true
+#PLAYLIST: ebm.m3u
+#PLAYLIST:Online radio: EBM Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1537514341.jpg" group-title="TEST Music Channels", THE EBM-Radio.com - 128 kbit/s
+https://streaming.brol.tech/rtfmlounge
+#PLAYLIST: electronic.m3u
+#PLAYLIST:Online radio: ELECTRONIC Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537442554.jpg" group-title="TEST Music Channels", Radio FM4 - 192 kbit/s
+https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550056323.jpg" group-title="TEST Music Channels", H A P P Y H A R D C O R E - HappyHardcore.com DJ Mixes, UK Happy Hardcore, NuNRG & oldskool - 128 kbit/s
+https://audio-edge-2a8hd.sfo.he.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Deep Motion FM - MotionFM.com - 192 kbit/s
+https://vm.motionfm.com/motionone_aacp?=2
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/106414.jpg" group-title="TEST Music Channels", ElectricFM.com - America&#039;s Real Dance! - 320 kbit/s
+https://live.electricfm.com/electricfm
+#PLAYLIST: eurodance.m3u
+#PLAYLIST:Online radio: EURODANCE Music (www.radio.pervii.com)
+#PLAYLIST: film.m3u
+#PLAYLIST:Online radio: FILM Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Movie Soundtracks Hits Radio - 192 kbit/s
+https://strm112.1.fm/moviesoundtracks_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="TEST Music Channels", Atmospheres by Sorcerer Radio - 128 kbit/s
+https://14223.live.streamtheworld.com/SP_R2670862.mp3
+#PLAYLIST: folk.m3u
+#PLAYLIST:Online radio: FOLK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537499555.jpg" group-title="TEST Music Channels", folkalley-128mp3 - 128 kbit/s
+https://freshgrass.streamguys1.com/folkalley-128mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1537499555.jpg" group-title="TEST Music Channels", folkalley-64aac - 192 kbit/s
+https://freshgrass.streamguys1.com/folkalley-64aac
+#PLAYLIST: france.m3u
+#PLAYLIST:Online radio: FRENCH Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537582629.jpg" group-title="TEST Music Channels", B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537455356.jpg" group-title="TEST Music Channels", Chante France 80&#039;s - 128 kbit/s
+https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403899999.png" group-title="TEST Music Channels", Not GamingFM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1550681587.jpg" group-title="TEST Music Channels", JAZZ RADIO NATIONALE - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/frequencejazz-high.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537455356.jpg" group-title="TEST Music Channels", Chante France Emotion - 128 kbit/s
+https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537455356.jpg" group-title="TEST Music Channels", Chante France 70&#039;s - 128 kbit/s
+https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3
+#PLAYLIST: funk.m3u
+#PLAYLIST:Online radio: FUNK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537582629.jpg" group-title="TEST Music Channels", B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", funkyexpress - 192 kbit/s
+https://strm112.1.fm/funkyexpress_mobile_mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Smooth Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motiontwo_free
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Motion FM &gt; Smooth - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motiontwo_aacp?=1
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Deep Motion FM - MotionFM.com - 64 kbit/s
+https://vm.motionfm.com/motiontwo_aacp?=2
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - Funk - 160 kbit/s
+https://centova5.transmissaodigital.com:20018/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="TEST Music Channels", 4U Funky Classic - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="TEST Music Channels", Jazz Funk - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jazz-wr06-128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Funky Express Radio - 192 kbit/s
+https://strm112.1.fm/funkyexpress_128
+#PLAYLIST: goa.m3u
+#PLAYLIST:Online radio: GOA Music (www.radio.pervii.com)
+#PLAYLIST: gospel.m3u
+#PLAYLIST:Online radio: GOSPEL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1549783871.jpg" group-title="TEST Music Channels", DWG Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1573967919.jpg" group-title="TEST Music Channels", Hope 103.2 - 64 kbit/s
+#PLAYLIST: gothic.m3u
+#PLAYLIST:Online radio: GOTHIC Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1587441181.jpg" group-title="TEST Music Channels", Ultradark-Radio - 128 kbit/s
+https://ultradarkradio.stream.laut.fm/ultradarkradio?t302=2025-10-29_11-33-00&uuid=6dc4aced-9894-48ab-880d-c0f1b3e5c7fa
+#PLAYLIST: greek.m3u
+#PLAYLIST:Online radio: GREEK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1559901882.jpg" group-title="TEST Music Channels", DeeJay 97.5 Corfu Greece - 192 kbit/s
+https://sh.onweb.gr:7083/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1595644086.jpg" group-title="TEST Music Channels", VOLOS RTV 87.9 RADIO - 320 kbit/s
+https://ice.streams.ovh/volosrtv
+#PLAYLIST: hardcore.m3u
+#PLAYLIST:Online radio: HARDCORE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550056323.jpg" group-title="TEST Music Channels", H A P P Y H A R D C O R E - HappyHardcore.com DJ Mixes, UK Happy Hardcore, NuNRG & oldskool - 128 kbit/s
+https://audio-edge-4ev3b.lax.g.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#PLAYLIST: hardrock.m3u
+#PLAYLIST:Online radio: HARDROCK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="TEST Music Channels", Metal Rock Radio - 128 kbit/s
+https://kathy.torontocast.com:2800/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550682306.jpg" group-title="TEST Music Channels", ChristianHardRock.Net - 32 kbit/s
+https://shoutcast.christianrock.net/stream/4/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="TEST Music Channels", Metal Rock One - 128 kbit/s
+https://kathy.torontocast.com:2800/stream
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="TEST Music Channels", 181.FM The Rock! (Hard Rock) - 128 kbit/s
+https://listen.181fm.com/181-hardrock_128k.mp3?noPreRoll=true
+#PLAYLIST: hip_hop.m3u
+#PLAYLIST:Online radio: HIP Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537442554.jpg" group-title="TEST Music Channels", Radio FM4 - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love Hip Hop by ilovemusic.de - 128 kbit/s
+https://ilm.stream18.radiohost.de/ilm_ilovehiphop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM3OTE3JmQ9NzNjOWU3MDNlZDA0YWQxNWJlNjE
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1555206044.jpg" group-title="TEST Music Channels", Dilemaradio - Hip Hop Rap Radio Station - 128 kbit/s
+https://dilemaradiolive.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - Hip Hop - 128 kbit/s
+https://centova5.transmissaodigital.com:20019/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Club Powerplay HipHop - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551751467.jpg" group-title="TEST Music Channels", Alabama&apos;s Finest Radio - 128 kbit/s
+https://listen.openstream.co/6271/audio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Slow Jamz Radio - 128 kbit/s
+https://strm112.1.fm/slowjamz_64
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="TEST Music Channels", 181.FM The Beat (HipHop/RnB) - 128 kbit/s
+https://listen.181fm.com/181-beat_64k.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="TEST Music Channels", 181.FM Old School HipHop RnB - 128 kbit/s
+https://listen.181fm.com/181-oldschool_128k.mp3
+#PLAYLIST: house.m3u
+#PLAYLIST:Online radio: HOUSE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1555123181.jpg" group-title="TEST Music Channels", DANCE.FM :: The Beat of Amsterdam :: - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1578244376.jpg" group-title="TEST Music Channels", Q-dance Radio - 192 kbit/s
+https://22333.live.streamtheworld.com/Q_DANCE.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537444514.jpg" group-title="TEST Music Channels", Energy FM - Dance Music Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Deep Motion FM - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1593394559.jpg" group-title="TEST Music Channels", ABC Dance - 192 kbit/s
+#PLAYLIST: india.m3u
+#PLAYLIST:Online radio: STATION_T_web Music (www.radio.pervii.com)
+mms://st.malargal.com/shyamradio
+mms://wm13.spacialnet.com/miraclesradio1
+#PLAYLIST: indie.m3u
+#PLAYLIST:Online radio: INDIE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1596384531.jpg" group-title="TEST Music Channels", Unspecified name - 128 kbit/s
+https://listen.radioking.com/radio/297919/stream/344476
+#PLAYLIST: industrial.m3u
+#PLAYLIST:Online radio: INDUSTRIAL Music (www.radio.pervii.com)
+#PLAYLIST: instrumental.m3u
+#PLAYLIST:Online radio: INSTRUMENTAL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403593792.png" group-title="TEST Music Channels", Abiding Radio - Instrumental - 128 kbit/s
+https://streams.abidingradio.com:7800/1.m3u
+#PLAYLIST: italian.m3u
+#PLAYLIST:Online radio: ITALIAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/119222.jpg" group-title="TEST Music Channels", Radio Pico - 256 kbit/s
+https://stream9.xdevel.com/audio0s976126-1032/stream/icecast.audio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550054286.jpg" group-title="TEST Music Channels", Radio Marte - 128 kbit/s
+https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550054286.jpg" group-title="TEST Music Channels", FM ITALIA - 192 kbit/s
+https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio
+#PLAYLIST: jazz.m3u
+#PLAYLIST:Online radio: JAZZ Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1551368265.jpg" group-title="TEST Music Channels", WUCF - 128 kbit/s
+https://peridot.streamguys1.com:7835/WUCF
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", Jazz Sakura - asia DREAM radio - 128 kbit/s
+https://kathy.torontocast.com:3330/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1549791295.jpg" group-title="TEST Music Channels", JAZZ RADIO NATIONALE - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/12774.jpg" group-title="TEST Music Channels", Unspecified name - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4382.jpg" group-title="TEST Music Channels", SmoothLounge.com - 128 kbit/s
+https://smoothjazz.cdnstream1.com/2586_128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Lounge Motion FM - MotionFM.com - 96 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/100557.jpg" group-title="TEST Music Channels", WUCF-HD2_Fallback - 128 kbit/s
+https://peridot.streamguys1.com:7835/WUCF-HD2-fallback
+#PLAYLIST: jpop.m3u
+#PLAYLIST:Online radio: JPOP Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Pop Powerplay - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Pop Powerplay Kawaii - 128 kbit/s
+https://kathy.torontocast.com:3060/stream/1/
+mms://212.156.63.102/RADYO3
+mms://208.32.175.112:325/am1310
+mms://wms016.lo1.hwcdn.net/i6z9v8n8-wls-32875-lakhanda?doppl=e11ba7a7aa0f0d25&dopsig=14aff50e975f4ce53485985f23b66103
+mms://gugakfm.ktics.co.kr/gugakfm
+#PLAYLIST: jungle.m3u
+#PLAYLIST:Online radio: JUNGLE Music (www.radio.pervii.com)
+#PLAYLIST: latin.m3u
+#PLAYLIST:Online radio: LATIN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/100557.jpg" group-title="TEST Music Channels", WUCF-HD2_Fallback - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/100557.jpg" group-title="TEST Music Channels", WUCF-HD2 - 48 kbit/s
+https://peridot.streamguys1.com:7835/WUCF-HD2
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="TEST Music Channels", Jazz Latin by Jazz Radio {Powered by Infomaniak.Net} - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403897121.png" group-title="TEST Music Channels", Radio La Escandalosa - 64 kbit/s
+https://securestream.radioshd.info:7095/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", latino - 192 kbit/s
+https://strm112.1.fm/latino_mobile_mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/100557.jpg" group-title="TEST Music Channels", WUCF-HD2_QL - 128 kbit/s
+https://peridot.streamguys1.com:7835/WUCF-HD2_QL
+#PLAYLIST: lounge.m3u
+#PLAYLIST:Online radio: LOUNGE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537513216.jpg" group-title="TEST Music Channels", TOPZEN - 128 kbit/s
+https://28993.live.streamtheworld.com/TOPZEN.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TEST Music Channels", PulsRadio LOUNGE - 192 kbit/s
+https://sc6.gergosnet.com/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537513216.jpg" group-title="TEST Music Channels", ZenFM (AACv2) - 192 kbit/s
+https://29053.live.streamtheworld.com/TOPZENAAC.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4382.jpg" group-title="TEST Music Channels", SmoothLounge.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Lounge Motion FM - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553500478.jpg" group-title="TEST Music Channels", Ambient Lounge on MixLive.ie - 192 kbit/s
+https://strw3.openstream.co/2348?aw_0_1st.collectionid%3D6273%26stationId%3D6273%26publisherId%3D2372%26k%3D1761737745
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4382.jpg" group-title="TEST Music Channels", SmoothLounge.com Global - 128 kbit/s
+https://smoothjazz.cdnstream1.com/2586_64.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/101260.jpg" group-title="TEST Music Channels", Cool Music Lounge &amp; Deep Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1595560080.jpg" group-title="TEST Music Channels", RadioLoungeNewAge AutoDJ - 128 kbit/s
+https://onair.wfuv.org/onair-hi
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/12871.jpg" group-title="TEST Music Channels", FG CHIC - 128 kbit/s
+https://stream.rcs.revma.com/cgvrymb6p98uv
+#PLAYLIST: metal.m3u
+#PLAYLIST:Online radio: METAL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="TEST Music Channels", Metal Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1590511143.jpg" group-title="TEST Music Channels", Metal Invasion Radio - 192 kbit/s
+https://radio.metal-invasion.fr/radio/8000/stream.mp3
+#PLAYLIST: mixed.m3u
+#PLAYLIST:Online radio: MIXED Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1550056323.jpg" group-title="TEST Music Channels", H A P P Y H A R D C O R E - HappyHardcore.com DJ Mixes, UK Happy Hardcore, NuNRG & oldskool - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/94123.jpg" group-title="TEST Music Channels", bigFM URBAN CLUB BEATS (DJ-MIX) - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=6901sp28%230%239po5op60783n8s42pq247700r179s576%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761737768
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/83924.jpg" group-title="TEST Music Channels", Radio Portalfoxmix 2021 By Patricio Dj - 320 kbit/s
+https://sonic.portalfoxmix.cl/8002/stream
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561157479.jpg" group-title="TEST Music Channels", The Groovy MIXX - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1553500478.jpg" group-title="TEST Music Channels", Ambient Lounge on MixLive.ie - 192 kbit/s
+https://strw3.openstream.co/2348?aw_0_1st.collectionid%3D6273%26stationId%3D6273%26publisherId%3D2372%26k%3D1761737772
+#PLAYLIST: musical.m3u
+#PLAYLIST:Online radio: MUSICAL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - MPB Musicalidade - 128 kbit/s
+https://centova5.transmissaodigital.com:20025/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1596182190.jpg" group-title="TEST Music Channels", R&#225;dio Itamaraty Livre FM - 96 kbit/s
+https://stm1.matutos.com.br:9630/stream
+#PLAYLIST: oldies.m3u
+#PLAYLIST:Online radio: OLDIES Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1549630997.jpg" group-title="TEST Music Channels", ORF Radio Oberoesterreich - 192 kbit/s
+https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1537460676.jpg" group-title="TEST Music Channels", ORF Radio Tirol - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1594088939.jpg" group-title="TEST Music Channels", Bygolly OTR - 32 kbit/s
+https://securestreams5.autopo.st:1854/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403406678.png" group-title="TEST Music Channels", ORF Radio Niederoesterreich - 128 kbit/s
+#PLAYLIST: opera.m3u
+#PLAYLIST:Online radio: OPERA Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1537582629.jpg" group-title="TEST Music Channels", Bravo!Opera - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", opera - 192 kbit/s
+https://strm112.1.fm/opera_mobile_mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Otto&#039;s Opera House Music Radio - 192 kbit/s
+https://strm112.1.fm/opera_128
+#PLAYLIST: polish.m3u
+#PLAYLIST:Online radio: POLISH Music (www.radio.pervii.com)
+#PLAYLIST: polka.m3u
+#PLAYLIST:Online radio: POLKA Music (www.radio.pervii.com)
+www.radionomy.com/radio-jodlerwirt1
+#PLAYLIST: pop.m3u
+#PLAYLIST:Online radio: POP Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/107080.jpg" group-title="TEST Music Channels", ...::: Radio Popular Romania :::... | populara | sarbe | hore | manele  vechi| - 128 kbit/s
+https://livessl.radiopopular.ro:7777/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537442554.jpg" group-title="TEST Music Channels", Radio FM4 - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555010146.jpg" group-title="TEST Music Channels", J-Pop Powerplay - 128 kbit/s
+#PLAYLIST: portugal.m3u
+mms://213.228.161.7
+mms://stream.rr.pt/RR
+#PLAYLIST: progressive.m3u
+#PLAYLIST:Online radio: PROGRESSIVE Music (www.radio.pervii.com)
+efusionradio.dyndns.org:8000
+Tunein
+#PLAYLIST: punk.m3u
+#PLAYLIST:Online radio: PUNK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403901619.png" group-title="TEST Music Channels", BeGoodRadio - 80s Punk Rock - 128 kbit/s
+https://ors.cdnstream1.com/5218_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1549467498.jpg" group-title="TEST Music Channels", ROCK ANTENNE Punkrock - 128 kbit/s
+https://s1-webradio.antenne.de/punkrock
+#PLAYLIST: quran.m3u
+#PLAYLIST:Online radio: QURAN Music (www.radio.pervii.com)
+#PLAYLIST: rap.m3u
+#PLAYLIST:Online radio: RAP Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1555206044.jpg" group-title="TEST Music Channels", Dilemaradio - Hip Hop Rap Radio Station - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551751467.jpg" group-title="TEST Music Channels", Alabama&apos;s Finest Radio - 128 kbit/s
+#PLAYLIST: reggae.m3u
+#PLAYLIST:Online radio: REGGAE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/3/1556676003.jpg" group-title="TEST Music Channels", zionhighness Stream - 128 kbit/s
+https://zionhighness.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - ReggaeTrade Radio - 192 kbit/s
+https://strm112.1.fm/reggae_64
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="TEST Music Channels", KHHMFM - 96 kbit/s
+https://19273.live.streamtheworld.com/KHHMFM.mp3
+#PLAYLIST: retro.m3u
+#PLAYLIST:Online radio: RETRO Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#PLAYLIST: rnb.m3u
+#PLAYLIST:Online radio: RNB Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1594263877.jpg" group-title="TEST Music Channels", EstrellaFM - 64 kbit/s
+https://radiolatina.info/7084/;
+#PLAYLIST: rock.m3u
+#PLAYLIST:Online radio: ROCK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1537442554.jpg" group-title="TEST Music Channels", Radio FM4 - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="TEST Music Channels", Metal Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403875921.png" group-title="TEST Music Channels", pobrejohnny - 64 kbit/s
+https://stream4.suenas.net/pobrejohnny
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1572762766.jpg" group-title="TEST Music Channels", Amvrakia Fm 91.9 - 256 kbit/s
+https://ice.streams.ovh:1195/stream
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1593391485.jpg" group-title="TEST Music Channels", CaboMil Radio - 64 kbit/s
+https://streamingcwsradio30.com:7070/stream/1/
+#PLAYLIST: romanian.m3u
+#PLAYLIST:Online radio: ROMANIAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/107080.jpg" group-title="TEST Music Channels", ...::: Radio Popular Romania :::... | populara | sarbe | hore | manele  vechi| - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/11284.jpg" group-title="TEST Music Channels", RadioGaga Tg.Mures Live [http://www.radiogaga.ro] - 96 kbit/s
+https://a3.my-control-panel.com:6660/radio.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403627792.png" group-title="TEST Music Channels", Radio Ciresarii - 192 kbit/s
+https://s3.radio.co/s6c0a773ad/listen
+#PLAYLIST: russian.m3u
+#PLAYLIST:Online radio: RUSSIAN Music (www.radio.pervii.com)
+#PLAYLIST: salsa.m3u
+#PLAYLIST:Online radio: SALSA Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1594263877.jpg" group-title="TEST Music Channels", EstrellaFM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1560868728.jpg" group-title="TEST Music Channels", PuertoSalsa radio Chile - 96 kbit/s
+https://sonic.portalfoxmix.cl:7028/stream/1/
+mms://87.216.19.209:5555
+#PLAYLIST: schlager.m3u
+#PLAYLIST:Online radio: SCHLAGER Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1302923156.jpg" group-title="TEST Music Channels", ORF Radio Steiermark - 192 kbit/s
+https://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537457578.jpg" group-title="TEST Music Channels", ORF Radio Kaernten - 192 kbit/s
+https://orf-live.ors-shoutcast.at/ktn-q2a
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1302925335.jpg" group-title="TEST Music Channels", SR3 Schlagerwelt - 128 kbit/s
+https://d121.rndfnk.com/ard/sr/sr3c1/mp3/128/stream.mp3?cid=01FH5AVZZZMFRBBJA43ZG9VQHC&sid=34jrnXxwzJNhFPApMMIvKXJdSoa&token=haE3ztgP0WX6WWushi31OiWA05bpwfiRjsCszSKGI3I&tvf=OIMPIwMHcxhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4225.jpg" group-title="TEST Music Channels", ORF Radio Niederoesterreich - 192 kbit/s
+https://orf-live.ors-shoutcast.at/noe-q2a
+mms://82.105.156.221:8888
+mms://63.231.116.93:23929
+#PLAYLIST: ska.m3u
+#PLAYLIST:Online radio: SKA Music (www.radio.pervii.com)
+#PLAYLIST: smooth_jazz.m3u
+#PLAYLIST:Online radio: SMOOTH Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4382.jpg" group-title="TEST Music Channels", SmoothLounge.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Smooth Motion FM - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Motion FM &gt; Smooth - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1555120575.jpg" group-title="TEST Music Channels", Radio Studio Souto - Smooth Jazz - 128 kbit/s
+https://centova5.transmissaodigital.com:20037/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4382.jpg" group-title="TEST Music Channels", SmoothLounge.com Global - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Bay Smooth Jazz Radio - 192 kbit/s
+https://strm112.1.fm/smoothjazz_128
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1592146932.jpg" group-title="TEST Music Channels", Sky Radio Smooth Hits - 128 kbit/s
+https://29043.live.streamtheworld.com/SRGSTR15.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", smoothjazz - 192 kbit/s
+https://strm112.1.fm/smoothjazz_mobile_mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/110130.jpg" group-title="TEST Music Channels", SMOOTH953 - 128 kbit/s
+https://23093.live.streamtheworld.com/SMOOTH953_AAC48.aac
+#PLAYLIST: soul.m3u
+#PLAYLIST:Online radio: SOUL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1550323001.jpg" group-title="TEST Music Channels", Soulpower Radio - 192 kbit/s
+https://s2.radio.co/sb0964023c/listen
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Smooth Motion FM - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Motion FM &gt; Smooth - MotionFM.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1561691364.jpg" group-title="TEST Music Channels", Deep Motion FM - MotionFM.com - 64 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="TEST Music Channels", Jazz and Cinema par Jazz Radio - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jzr-wr20.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="TEST Music Channels", Nouveaut - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jzr-wr19-128.mp3
+#PLAYLIST: soundtrack.m3u
+#PLAYLIST:Online radio: SOUNDTRACK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1426449734.jpg" group-title="TEST Music Channels", 1.FM - Movie Soundtracks Hits Radio - 192 kbit/s
+#PLAYLIST: spain.m3u
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1302922245.jpg" group-title="TEST Music Channels", CLASSIC ROCK MIAMI - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1555254610.jpg" group-title="TEST Music Channels", LOVERADIOFM - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1556442730.jpg" group-title="TEST Music Channels", AdagioRadio - 128 kbit/s
+https://server5.mediasector.es:8070/adagioradiohd.mp3?lang=*
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TEST Music Channels", PulsRadio 2000 - 192 kbit/s
+https://str3.openstream.co/2142
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TEST Music Channels", MagicRadio by PulsRadio - 128 kbit/s
+https://sc6.gergosnet.com/stream/10/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TEST Music Channels", PulsRadio LOUNGE - 96 kbit/s
+https://sc6.gergosnet.com/stream/2/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403897121.png" group-title="TEST Music Channels", Radio La Escandalosa - 64 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1596165624.jpg" group-title="TEST Music Channels", RUMBA STEREO 94.7 FM - 48 kbit/s
+https://server6.globalhostla.com:9302/stream
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/103509.jpg" group-title="TEST Music Channels", HitUkStation by PulsRadio - 192 kbit/s
+https://sc6.gergosnet.com/stream/3/
+#PLAYLIST: spiritual.m3u
+#PLAYLIST:Online radio: SPIRITUAL Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1549783871.jpg" group-title="TEST Music Channels", DWG Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1573967919.jpg" group-title="TEST Music Channels", Hope 103.2 - 64 kbit/s
+#PLAYLIST: sport.m3u
+#PLAYLIST:Online radio: SPORT Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1553137085.jpg" group-title="TEST Music Channels", RPR1.Wiesn Hits - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-rpr1webradio-aac-128-3481640?sABC=6901sq57%231%23gjy%23zc3&aw_0_1st.playerid=mp3&amsparams=playerid:mp3;skey:1761738071
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1574070012.jpg" group-title="TEST Music Channels", R&#225;dio Itamaraty Livre FM - 96 kbit/s
+mms://onair10.xdevel.com/radiospazioapertolive
+mms://live.onestreaming.com/liberofm
+mms://live.onestreaming.com/athletic
+mms://ac1.streaming.net.nz/trn-radiosport-akl
+mms://premiere.lasvegasnevada.gov:443/KCLV-Live
+mms://69.24.212.14:8080
+mms://wmlive.bbc.net.uk/wms/bbc_ami/radio5/5spxtra_bb_live_int_ep1_sw0?BBC-UID
+#PLAYLIST: swing.m3u
+#PLAYLIST:Online radio: SWING Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1561136749.jpg" group-title="TEST Music Channels", Electro Swing by Jazz Radio {Powered by Infomaniak.Net} - 128 kbit/s
+https://jazzradio.ice.infomaniak.ch/jazz-wr04-128.mp3
+#PLAYLIST: symphonic.m3u
+#PLAYLIST:Online radio: SYMPHONIC Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403780160.png" group-title="TEST Music Channels", AirlessRadio - Piano Bar - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1549627518.jpg" group-title="TEST Music Channels", Radio BipTunia - 128 kbit/s
+https://ecast.myautodj.com:1380/listen.mp3
+#PLAYLIST: talk.m3u
+#PLAYLIST:Online radio: TALK Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/11284.jpg" group-title="TEST Music Channels", RadioGaga Tg.Mures Live [http://www.radiogaga.ro] - 96 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1572314874.jpg" group-title="TEST Music Channels", WNPR-FM - 64 kbit/s
+https://18183.live.streamtheworld.com/WNPRFM.mp3
+#PLAYLIST: techno.m3u
+#PLAYLIST:Online radio: TECHNO Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1593394559.jpg" group-title="TEST Music Channels", ABC Dance - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403607396.png" group-title="TEST Music Channels", MINIMALRADIO.DE - 128 kbit/s
+https://minimalradio.de:7000/stream/1/
+#PLAYLIST: top_40.m3u
+#PLAYLIST:Online radio: TOP Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1549630997.jpg" group-title="TEST Music Channels", ORF Radio Oberoesterreich - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1550165325.jpg" group-title="TEST Music Channels", MegaHit - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1555082226.jpg" group-title="TEST Music Channels", Hot Dance Radio - Hits With A Beat! - 192 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1560865330.jpg" group-title="TEST Music Channels", MGT Love Hits - 128 kbit/s
+#PLAYLIST: trance.m3u
+#PLAYLIST:Online radio: TRANCE Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1556466284.jpg" group-title="TEST Music Channels", Energy FM - Dance Music Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1647569732.jpg" group-title="TEST Music Channels", DiscoParty.pl - Club MiX - 128 kbit/s
+#PLAYLIST: turk.m3u
+#PLAYLIST:Online radio: TURK Music (www.radio.pervii.com)
+mms://212.156.63.102/RDVOT
+mms://212.156.63.102/RADYO4
+mms://84.16.252.120/slowturk
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/106319.jpg" group-title="TEST Music Channels", JOYTURK - 64 kbit/s
+https://25453.live.streamtheworld.com/JOY_TURK.mp3
+#PLAYLIST: urban.m3u
+#PLAYLIST:Online radio: URBAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/94123.jpg" group-title="TEST Music Channels", bigFM URBAN CLUB BEATS (DJ-MIX) - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=6901sqo0%230%239po5op60783n8s42pq247700r179s576%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761738160
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1551751467.jpg" group-title="TEST Music Channels", Alabama&apos;s Finest Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/102409.jpg" group-title="TEST Music Channels", Jamz - 128 kbit/s
+https://15113.live.streamtheworld.com/977_JAMZ.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/94123.jpg" group-title="TEST Music Channels", I Love bigFM Groove Night - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=6901sqoo%230%239po5op60783n8s42pq247700r179s576%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761738171
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/94123.jpg" group-title="TEST Music Channels", bigFM Deutschlands biggste Beats - 128 kbit/s
+https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=6901sqoq%230%239po5op60783n8s42pq247700r179s576%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1761738173
+#PLAYLIST: usa.m3u
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/106414.jpg" group-title="TEST Music Channels", ElectricFM.com - America&#039;s Real Dance! - 128 kbit/s
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/7/1573311697.jpg" group-title="TEST Music Channels", Kiss 105.3 FM - 128 kbit/s
+https://rogers-hls.leanstream.co/rogers/ott1053.stream/playlist.m3u8
+mms://68.177.73.146:8004
+mms://38.106.70.70/romance_live
+mms://38.106.70.70/amor_live
+mms://38.106.70.70/lamega_live
+mms://us02.dagupan.com/energyfm-metromanila
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/90485.jpg" group-title="TEST Music Channels", EXA FM 92.5 QUITO ECUADOR - 128 kbit/s
+https://26683.live.streamtheworld.com/ECUADOR.mp3
+#PLAYLIST: various.m3u
+#PLAYLIST:Online radio: VARIOUS Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1575817775.jpg" group-title="TEST Music Channels", 91.3 FM San Ram - 128 kbit/s
+https://sanramon-zikoxweb.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/20006.jpg" group-title="TEST Music Channels", I Love 2 Dance by ilovemusic.de - 128 kbit/s
+https://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYxNzM4NDkwJmQ9ZjM1ZjkwMTcwMmM1YTQwZTE5MjY
+#PLAYLIST: wave.m3u
+#PLAYLIST:Online radio: WAVE Music (www.radio.pervii.com)
+mms://streamer2.securenetsystems.net/WAKU
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403901614.png" group-title="TEST Music Channels", BeGoodRadio - 80s New Wave - 128 kbit/s
+https://ors.cdnstream1.com/5214_128
+#PLAYLIST: world.m3u
+#PLAYLIST:Online radio: WORLD Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1572768561.jpg" group-title="TEST Music Channels", Tarana - 128 kbit/s
+https://peridot.streamguys1.com:7150/Tarana.aac
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1571971496.jpg" group-title="TEST Music Channels", clapas - 128 kbit/s
+https://stations.radioclapas.fr/radio/8130/radio.mp3
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403704196.png" group-title="TEST Music Channels", stream - 128 kbit/s
+https://server4.streamserver24.com:26250/stream
